@@ -1,6 +1,6 @@
-class simple{
-public static void main(string args[]){
-  
-system.out.println("welcome to swapnil ");
-}
-}
+
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
